@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Get Out Ye Black and Tans",
+  "base_artist": "Derek Warfield",
+  "createdAt": "2026-03-23T07:36:11.096206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Out Ye Black and Tans",
+      "artist": "Derek Warfield",
+      "has_synced": false,
+      "path": "select/01_Get_Out_Ye_Black_and_Tans_Derek_Warfield.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get Out Ye Black And Tans",
+      "artist": "Wolfe Tones",
+      "has_synced": true,
+      "path": "select/02_Get_Out_Ye_Black_And_Tans_Wolfe_Tones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Out Ye Black and Tans",
+      "artist": "Derek Warfield",
+      "has_synced": true,
+      "path": "select/03_Get_Out_Ye_Black_and_Tans_Derek_Warfield.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Out Ye Black and Tans",
+      "artist": "Wolfe Tones",
+      "has_synced": true,
+      "path": "select/04_Get_Out_Ye_Black_and_Tans_Wolfe_Tones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Out Ye Black and Tans",
+      "artist": "The Wolfe Tones",
+      "has_synced": true,
+      "path": "select/05_Get_Out_Ye_Black_and_Tans_The_Wolfe_Tones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Derek Warfield - Get Out Ye Black and Tans",
+      "artist": "[Unknown Artist]",
+      "has_synced": true,
+      "path": "select/06_Derek_Warfield_-_Get_Out_Ye_Black_and_Tans_[Unknown_Artist].lrc"
+    }
+  ]
+}
